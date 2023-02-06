@@ -5,7 +5,7 @@
 
 **Förster Resonance Energy Transfer Calculator (FRET-Calc)** is a Python GUI software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor, and the refractive index spectrum of the donor/acceptor blend. Therefore, the main goal of this software is to obtain the principal parameters involved in FRET process, such as: (i) Effective refractive index, (ii) overlap integral, (iii) Förster radius, (iii) FRET efficiency and (iv) FRET rate. 
 
-FRET-Calc has a free license. The software executables are available for download on [*Unix*](), [*Windows*]() and [*macOS*]() operational systems.
+FRET-Calc has a free license. The software executables are available for download on [*Unix*](https://github.com/FRETCalc/FRETCalc/releases/tag/FRETCalc-Unix-1.0-alpha), [*Windows*](https://github.com/FRETCalc/FRETCalc/releases/tag/FRETCalc-Windows-v1.0-alpha) and [*macOS*](https://github.com/FRETCalc/FRETCalc/releases/tag/FRET-Calc-macOS-v1.0-alpha) operational systems.
 
 **How to refer to the FRET-Calc program in publications:**
 FRET parameters were calculated using the FRET-Calc program.
