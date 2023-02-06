@@ -5,7 +5,7 @@
 
 **Förster Resonance Energy Transfer Calculator (FRET-Calc)** is a Python GUI software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor, and the refractive index spectrum of the donor/acceptor blend. Therefore, the main goal of this software is to obtain the principal parameters involved in FRET process, such as: (i) Effective refractive index, (ii) overlap integral, (iii) Förster radius, (iii) FRET efficiency and (iv) FRET rate. 
 
-FRET-Calc has a free license. The software executables are available for download on [*Unix*](https://github.com/FRETCalc/FRET-Calc/releases/tag/FRET-Calc-Unix-v1.0-alpha), [*Windows*](https://github.com/FRETCalc/FRET-Calc/releases/tag/FRET-Calc-Windowns-v1.0-alpha) and [*macOS*](https://github.com/FRETCalc/FRET-Calc/releases/tag/FRET-Calc-macOS-v1.0-alpha) operational systems.
+FRET-Calc has a free license. The software executables are available for download on [*Unix*](), [*Windows*]() and [*macOS*]() operational systems.
 
 **How to refer to the FRET-Calc program in publications:**
 FRET parameters were calculated using the FRET-Calc program.
@@ -32,18 +32,18 @@ FRET parameters were calculated using the FRET-Calc program.
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
 # Data-Sample
-* [This directory](https://github.com/FRETCalc/FRET-Calc/tree/main/data-sample) contains an example of the data set needed to run the FRET-Calc software.
+* [This directory]() contains an example of the data set needed to run the FRET-Calc software.
 
 # Spectral-Data
 
 ## Emission
-* [This directory](https://github.com/FRETCalc/FRET-Calc/tree/main/spectral-data/Emission) contains some data for the emission spectra of different molecules.
+* [This directory]() contains some data for the emission spectra of different molecules.
 
 ## Extinction coefficient
-* [This directory](https://github.com/FRETCalc/FRET-Calc/tree/main/spectral-data/Extinction%20coefficient) contains some data for the extinction coefficient of different molecules.
+* [This directory](t) contains some data for the extinction coefficient of different molecules.
 
 ## Refractive Index
-* [This directory](https://github.com/FRETCalc/FRET-Calc/tree/main/spectral-data/Refractive%20Index) contains some data for the refractive index of different molecules.
+* [This directory]() contains some data for the refractive index of different molecules.
 
 # Acknowledgments
 The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LCNano/SisNANO 2.0 (grant 442591/2019-5). L.B. (grant E-26/202.091/2022 process 277806)  and G.C. (grant E-26/200.627/2022 and E-26/210.391/2022 process 271814) are greatfully for financial support from FAPERJ. The authors also acknowledge the computational support of Núcleo Avançado de Computação de Alto Desempenho (NACAD/COPPE/UFRJ), Sistema Nacional de Processamento de Alto Desempenho (SINAPAD) and Centro Nacional de Processamento de Alto Desempenho em São Paulo (CENAPAD-SP) and technical support of SMMOL - solutions in functionalyzed materials.
