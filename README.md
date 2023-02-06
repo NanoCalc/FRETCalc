@@ -32,7 +32,7 @@ FRET parameters were calculated using the FRET-Calc program.
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
 # Data-Sample
-* [This directory]() contains an example of the data set needed to run the FRET-Calc software.
+* [This directory](https://github.com/FRETCalc/FRETCalc/tree/main/data-sample) contains an example of the data set needed to run the FRET-Calc software.
 
 # Spectral-Data
 
