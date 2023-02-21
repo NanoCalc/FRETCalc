@@ -39,20 +39,18 @@ Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/d
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
 # Data Sample
-* [This directory](https://github.com/FRETCalc/FRETCalc/tree/main/data-sample) contains an example of the data set needed to run `FRETCalc`
+* [The `data-sample` folder](https://github.com/FRETCalc/FRETCalc/tree/main/data-sample) contains an example of the data set needed to run `FRETCalc`.<br> 
+You can download them [here](https://github.com/FRETCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/data-sample.tar.gz)
 
 
 # Spectral Data
-Here, you will find additional data that can be used to obtain FRET parameters for different molecules.
+In the [`spectral-data` folder](https://github.com/FRETCalc/FRETCalc/tree/main/spectral-data), you will find additional data that can be used to obtain FRET parameters for different molecules. Which are: 
 
-### Emission
-* [This directory](https://github.com/FRETCalc/FRETCalc/tree/main/spectral-data/Emission) contains some data for the emission spectra of different molecules.
+- Emission spectre 
+- Extinction coefficient 
+- Refractive index
 
-### Extinction coefficient
-* [This directory](https://github.com/FRETCalc/FRETCalc/tree/main/spectral-data/Extinction%20coefficient) contains some data for the extinction coefficient of different molecules.
-
-### Refractive Index
-* [This directory](https://github.com/FRETCalc/FRETCalc/tree/main/spectral-data/Refractive%20Index) contains some data for the refractive index of different molecules.
+of different molecules. You can also directly download them [here](https://github.com/FRETCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/spectral-data.tar.gz)
 
 # Acknowledgments
 The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LCNano/SisNANO 2.0 (grant 442591/2019-5). L.B. (grant E-26/202.091/2022 process 277806)  and G.C. (grant E-26/200.627/2022 and E-26/210.391/2022 process 271814) are greatfully for financial support from FAPERJ. The authors also acknowledge the computational support of Núcleo Avançado de Computação de Alto Desempenho (NACAD/COPPE/UFRJ), Sistema Nacional de Processamento de Alto Desempenho (SINAPAD) and Centro Nacional de Processamento de Alto Desempenho em São Paulo (CENAPAD-SP) and technical support of SMMOL - solutions in functionalyzed materials.
