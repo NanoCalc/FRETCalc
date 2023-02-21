@@ -12,10 +12,10 @@ Therefore, the main goal of this software is to obtain the main parameters invol
 - FRET efficiency 
 - FRET rate
 
-The software binaries can be downloaded for [*Unix*](https://github.com/FRETCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Unix.tar.gz), [*Windows*](https://github.com/FRETCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Windows.tar.gz) and [*macOS*](https://github.com/FRETCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-MacOS.tar.gz) operating systems.<br> 
+The software binaries can be downloaded for [*Unix*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Unix.tar.gz), [*Windows*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Windows.tar.gz) and [*macOS*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-MacOS.tar.gz) operating systems.<br> 
 `FRETCalc` can also be used online on [our website](https://nanocalc.org/fret).
 
-You can refer to the use of this software by linking [this repo](https://github.com/FRETCalc/FRETCalc) or [our website](https://nanocalc.org)
+You can refer to the use of this software by linking [this repo](https://github.com/NanoCalc/FRETCalc) or [our website](https://nanocalc.org)
 in your article.
 
 Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/dineufpr) and [*NAMOR*](http://sites.if.ufrj.br/namor/).
@@ -40,18 +40,18 @@ Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/d
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
 # Data Sample
-* [The `data-sample` folder](https://github.com/FRETCalc/FRETCalc/tree/main/data-sample) contains an example of the data set needed to run `FRETCalc`.<br> 
-You can download them [here](https://github.com/FRETCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/data-sample.tar.gz)
+* [The `data-sample` folder](https://github.com/NanoCalc/FRETCalc/tree/main/data-sample) contains an example of the data set needed to run `FRETCalc`.<br> 
+You can download them [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/data-sample.tar.gz)
 
 
 # Spectral Data
-In the [`spectral-data` folder](https://github.com/FRETCalc/FRETCalc/tree/main/spectral-data), you will find additional data that can be used to obtain FRET parameters for different molecules. Which are: 
+In the [`spectral-data` folder](https://github.com/NanoCalc/FRETCalc/tree/main/spectral-data), you will find additional data that can be used to obtain FRET parameters for different molecules. Which are: 
 
 - Emission spectre 
 - Extinction coefficient 
 - Refractive index
 
-of different molecules. You can also directly download them [here](https://github.com/FRETCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/spectral-data.tar.gz)
+of different molecules. You can also directly download them [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/spectral-data.tar.gz)
 
 # Acknowledgments
 The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LCNano/SisNANO 2.0 (grant 442591/2019-5). L.B. (grant E-26/202.091/2022 process 277806)  and G.C. (grant E-26/200.627/2022 and E-26/210.391/2022 process 271814) are greatfully for financial support from FAPERJ. The authors also acknowledge the computational support of Núcleo Avançado de Computação de Alto Desempenho (NACAD/COPPE/UFRJ), Sistema Nacional de Processamento de Alto Desempenho (SINAPAD) and Centro Nacional de Processamento de Alto Desempenho em São Paulo (CENAPAD-SP) and technical support of SMMOL - solutions in functionalyzed materials.
