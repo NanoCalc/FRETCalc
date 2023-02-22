@@ -32,7 +32,7 @@ Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/d
 # Institutions
 <sup>a</sup>Institute of  Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br>
 <sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br>
-<sup>c</sup>Brazilian Nanotechnology National Laboratory (LNNano), Brazilian Center for Research in Energy and Materials (CNPEM), Campinas, São Paulo, 13083-100, Brazil.<br/>
+<sup>c</sup>Brazilian Nanotechnology National Laboratory (LNNano), Brazilian Center for Research in Energy and Materials (CNPEM), 13083-100, Campinas- SP, Brazil.<br/>
 
 # Developers
 * [Leandro Benatto](https://github.com/LeandroBenatto)
