@@ -2,7 +2,7 @@
   <img width="400em" src="https://user-images.githubusercontent.com/34662089/206607182-9c6ad11d-afc4-41a7-845e-1d986b07baf8.png" />
 </p>
 
-**Förster Resonance Energy Transfer Calculator (`FRETCalc`)** is an user-friendly GUI software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor and the refractive index spectrum of the donor/acceptor blend.<br> 
+**Förster Resonance Energy Transfer Calculator (`FRET-Calc`)** is an user-friendly GUI software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor and the refractive index spectrum of the donor/acceptor blend.<br> 
 Therefore, the primary objective of this software is to acquire the fundamental parameters involved in the FRET process, such as:
 
 - Effective refractive index 
@@ -18,7 +18,7 @@ Program interface:
   <img width="450em" src="https://user-images.githubusercontent.com/102557510/221590031-7f358ddc-ece2-4f62-b933-6a3463867486.png" />
 </p>
 
-`FRETCalc` can also be used online on [our website](https://nanocalc.org/fret).
+`FRET-Calc` can also be used online on [our website](https://nanocalc.org/fret).
 
 You can refer to the use of this software by linking [this repo](https://github.com/NanoCalc/FRETCalc) or [our website](https://nanocalc.org)
 in your article.
@@ -63,6 +63,6 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
 
 # Cited by
 
-Papers that recently cited `FRETCalc` are shown below.
+Papers that recently cited `FRET-Calc` are shown below.
 <!-- [![DOI:<your number>](http://img.shields.io/badge/DOI-<your number>-<colour hexcode>.svg)](<doi link>) -->
 <!-- exemplo [![DOI:10.1101/2021.01.08.425840](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1101/2021.01.08.425840) -->
