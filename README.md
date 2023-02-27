@@ -1,7 +1,6 @@
 <p align="center">  
-  <img width="500em" src="https://user-images.githubusercontent.com/34662089/206607182-9c6ad11d-afc4-41a7-845e-1d986b07baf8.png" />
+  <img width="400em" src="https://user-images.githubusercontent.com/34662089/206607182-9c6ad11d-afc4-41a7-845e-1d986b07baf8.png" />
 </p>
-
 
 **Förster Resonance Energy Transfer Calculator (`FRETCalc`)** is an user-friendly GUI software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor and the refractive index spectrum of the donor/acceptor blend.<br> 
 Therefore, the main goal of this software is to obtain the main parameters involved in the FRET process, such as: 
@@ -13,6 +12,12 @@ Therefore, the main goal of this software is to obtain the main parameters invol
 - FRET rate
 
 The software binaries can be downloaded for [*Unix*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Unix.tar.gz), [*Windows*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Windows.tar.gz) and [*macOS*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-MacOS.tar.gz) operating systems.<br> 
+
+Program interface:
+<p align="center">  
+  <img width="450em" src="https://user-images.githubusercontent.com/102557510/221590031-7f358ddc-ece2-4f62-b933-6a3463867486.png" />
+</p>
+
 `FRETCalc` can also be used online on [our website](https://nanocalc.org/fret).
 
 You can refer to the use of this software by linking [this repo](https://github.com/NanoCalc/FRETCalc) or [our website](https://nanocalc.org)
