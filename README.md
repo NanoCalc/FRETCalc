@@ -3,7 +3,7 @@
 </p>
 
 **Förster Resonance Energy Transfer Calculator (`FRETCalc`)** is an user-friendly GUI software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor and the refractive index spectrum of the donor/acceptor blend.<br> 
-Therefore, the main goal of this software is to obtain the main parameters involved in the FRET process, such as: 
+Therefore, the primary objective of this software is to acquire the fundamental parameters involved in the FRET process, such as:
 
 - Effective refractive index 
 - Overlap integral 
