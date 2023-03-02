@@ -24,7 +24,7 @@ Detailed instructions for using FRET-Calc can be consulted in our published arti
 
 **FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
 
-Preprint available [here](https://github.com/NanoCalc/FRETCalc/blob/main/FRET.pdf).
+Preprint available [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRET.pdf).
 
 Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/dineufpr) and [*NAMOR*](http://sites.if.ufrj.br/namor/).
 
