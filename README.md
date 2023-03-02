@@ -64,7 +64,7 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
 # How to cite FRET-Calc
 
 If you use `FRET-Calc` for your data analysis, please indicate in your published work by citing: 
-- **FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715) (Preprint available [here](https://github.com/NanoCalc/FRETCalc/blob/main/FRET.pdf)
+- **FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715) (Preprint available [here](https://github.com/NanoCalc/FRETCalc/blob/main/FRET.pdf))
 
 # Cited by
 
