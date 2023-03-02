@@ -63,7 +63,8 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
 
 # How to cite FRET-Cal
 
-If you use FRET-Calc for your data analysis, please indicate in your published work by citing: [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
+If you use FRET-Calc for your data analysis, please indicate in your published work by citing: 
+- [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
 
 # Cited by
 
