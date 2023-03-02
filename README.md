@@ -20,7 +20,7 @@ Program interface:
 
 `FRET-Calc` can also be used online on [our website](https://nanocalc.org/fret).
 
-Detailed instructions for using FRET-Calc can be consulted in our published article.
+Detailed instructions for using FRET-Calc can be consulted in our published article:
 
 **FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
 
