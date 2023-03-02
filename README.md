@@ -18,7 +18,7 @@ Program interface:
   <img width="500em" src="https://user-images.githubusercontent.com/102557510/221590031-7f358ddc-ece2-4f62-b933-6a3463867486.png" />
 </p>
 
-`FRET-Calc` can also be used online on [our website](https://nanocalc.org/fret).
+`FRET-Calc` can also be used online on [our website](https://nanocalc.org/fret) <a href="https://nanocalc.org/fret" target="_blank">our website</a>.
 
 Detailed instructions for using FRET-Calc can be consulted in our published article:
 
