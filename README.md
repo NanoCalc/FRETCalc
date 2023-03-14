@@ -2,8 +2,8 @@
   <img width="400em" src="https://user-images.githubusercontent.com/34662089/206607182-9c6ad11d-afc4-41a7-845e-1d986b07baf8.png" />
 </p>
 
-**Förster Resonance Energy Transfer Calculator (`FRET-Calc`)** is an user-friendly GUI software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor and the refractive index spectrum of the donor/acceptor blend.<br> 
-Therefore, the primary objective of this software is to acquire the fundamental parameters involved in the FRET process, such as:
+**Förster Resonance Energy Transfer Calculator (`FRET-Calc`)** is an user-friendly GUI software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor and the refractive index spectrum of the donor/acceptor blend. 
+Therefore,<br> the primary objective of this software is to acquire the fundamental parameters involved in the FRET process, such as:
 
 - Effective refractive index 
 - Overlap integral 
@@ -11,7 +11,7 @@ Therefore, the primary objective of this software is to acquire the fundamental 
 - FRET efficiency 
 - FRET rate
 
-The software binaries can be downloaded for [*Unix*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Unix.tar.gz), [*Windows*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Windows.tar.gz) and [*macOS*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-MacOS.tar.gz) operating systems.<br> 
+The software binaries can be downloaded for [*Unix-like systems (Linux)*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Unix.tar.gz), [*Windows*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Windows.tar.gz) and [*macOS*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-MacOS.tar.gz) operating systems.<br> 
 
 Program interface:
 <p align="center">  
@@ -24,7 +24,7 @@ Detailed instructions for using FRET-Calc can be consulted in our published arti
 
 **FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
 
-Preprint available [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRET.pdf).
+This article is open access: You can get the preprint [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRET.pdf).
 
 Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/dineufpr) and [*NAMOR*](http://sites.if.ufrj.br/namor/).
 
