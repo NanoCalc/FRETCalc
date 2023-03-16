@@ -2,7 +2,7 @@
   <img width="400em" src="https://user-images.githubusercontent.com/34662089/206607182-9c6ad11d-afc4-41a7-845e-1d986b07baf8.png" />
 </p>
 
-**Förster Resonance Energy Transfer Calculator (`FRET-Calc`)** is an user-friendly GUI software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor and the refractive index spectrum of the donor/acceptor blend. 
+**Förster Resonance Energy Transfer Calculator (`FRET-Calc`)** is a user-friendly software that analyzes experimental data for molar extinction coefficient of the acceptor, emission spectrum of the donor and the refractive index spectrum of the donor/acceptor blend. 
 Therefore,<br> the primary objective of this software is to acquire the fundamental parameters involved in the FRET process, such as:
 
 - Effective refractive index 
@@ -20,11 +20,14 @@ Program interface:
 
 `FRET-Calc` can also be used online on [our website](https://nanocalc.org/fret)
 
-Detailed instructions for using FRET-Calc can be consulted in our published article:
+Detailed instructions for using FRET-Calc can be consulted in our published article:<br>
 
-**FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
 
-This article is open access: You can get the preprint [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRET.pdf).
+**FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** 
+
+[![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
+
+This article is open access: you can get the preprint [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRET.pdf).
 
 Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/dineufpr) and [*NAMOR*](http://sites.if.ufrj.br/namor/).
 
@@ -67,9 +70,11 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
 # How to cite FRET-Calc
 
 If you use `FRET-Calc` for your data analysis, please indicate in your published work by citing: 
-- **FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
+- **FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** 
 
-Preprint available [here](https://github.com/NanoCalc/FRETCalc/blob/main/FRET.pdf)
+
+[![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
+
 
 # Cited by
 
