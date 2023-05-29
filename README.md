@@ -64,7 +64,7 @@ In the [`spectral-data` folder](https://github.com/NanoCalc/FRETCalc/tree/main/s
 - Extinction coefficient spectrum of the acceptor
 - Refractive index spectrum of the donor/acceptor blend
 
-You can also directly download them [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/spectral-data.tar.gz)
+You can also directly download them [here](https://github.com/NanoCalc/FRETCalc/releases/download/1.0-alpha/spectral-data.tar.gz)
 
 # Acknowledgments
 The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LCNano/SisNANO 2.0 (grant 442591/2019-5). L.B. (grant E-26/202.091/2022 process 277806), O.M. (grant E-26/200.729/2023 process 285493) and G.C. (grant E-26/200.627/2022 and E-26/210.391/2022 process 271814) are greatfully for financial support from FAPERJ. The authors also acknowledge the computational support of Núcleo Avançado de Computação de Alto Desempenho (NACAD/COPPE/UFRJ), Sistema Nacional de Processamento de Alto Desempenho (SINAPAD) and Centro Nacional de Processamento de Alto Desempenho em São Paulo (CENAPAD-SP) and technical support of SMMOL - solutions in functionalyzed materials.
