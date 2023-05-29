@@ -58,7 +58,7 @@ You can download them [here](https://github.com/NanoCalc/FRETCalc/releases/downl
 
 
 # Spectral Data
-In the [`spectral-data` folder](https://github.com/NanoCalc/FRETCalc/tree/main/spectral-data), you will find additional data that can be used to obtain FRET parameters for different molecules. Which are: 
+In the [`spectral-data`](https://github.com/NanoCalc/FRETCalc/tree/main/spectral-data) folder, you will find additional data that can be used to obtain FRET parameters for different molecules. Which are: 
 
 - Emission spectrum of the donor
 - Extinction coefficient spectrum of the acceptor
