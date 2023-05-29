@@ -53,7 +53,7 @@ Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/d
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
 # Data Sample
-* [The `data-sample` folder](https://github.com/NanoCalc/FRETCalc/tree/main/data-sample) contains an example of the data set needed to run `FRETCalc`.<br> 
+* The [`data-sample`](https://github.com/NanoCalc/FRETCalc/tree/main/data-sample) folder contains an example of the data set needed to run `FRETCalc`.<br> 
 You can download them [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/data-sample.tar.gz)
 
 
