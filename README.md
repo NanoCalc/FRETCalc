@@ -54,7 +54,7 @@ Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/d
 
 # Data Sample
 * The [`data-sample`](https://github.com/NanoCalc/FRETCalc/tree/main/data-sample) folder contains an example of the data set needed to run `FRETCalc`.<br> 
-You can download them [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/data-sample.tar.gz)
+You can download them [here](https://github.com/NanoCalc/FRETCalc/releases/download/1.0-alpha/data-sample.tar.gz)
 
 
 # Spectral Data
