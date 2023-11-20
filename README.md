@@ -20,7 +20,7 @@ Program interface:
 
 `FRET-Calc` can also be used online on [our website](https://nanocalc.org/fret).
 
-Test the app using [sample data](https://github.com/NanoCalc/FRETCalc/releases/download/1.0-alpha/data-sample.tar.gz).
+Test the app using [sample data](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/data-sample.zip).
 
 Detailed instructions for using FRET-Calc can be consulted in our published article:<br>
 
