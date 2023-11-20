@@ -22,6 +22,8 @@ Program interface:
 
 Test the app using [sample data](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/data-sample.zip).
 
+More spectral data for testing can be downloaded [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/spectral-data.zip).
+
 Detailed instructions for using FRET-Calc can be consulted in our published article:<br>
 
 
