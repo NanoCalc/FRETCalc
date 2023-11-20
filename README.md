@@ -11,7 +11,7 @@ Therefore, the primary objective of this software is to acquire the fundamental 
 - FRET efficiency 
 - FRET rate
 
-**The software binaries can be downloaded for the following operating systems:** [*Unix-like systems (Linux)*](https://github.com/NanoCalc/FRETCalc/releases/download/2.0-beta/FRETCalc-Unix.zip), [*Windows*](https://github.com/NanoCalc/FRETCalc/releases/download/2.0-beta/FRETCalc-Windows.zip) and [*macOS*](https://github.com/NanoCalc/FRETCalc/releases/download/2.0-beta/FRETCalc-MacOS.zip).<br> 
+**The software binaries can be downloaded for the following operating systems:** [*Unix-like systems (Linux)*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Unix.tar.gz), [*Windows*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Windows.tar.gz) and [*macOS*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-MacOS.tar.gz).<br> 
 
 Program interface:
 <p align="center">  
