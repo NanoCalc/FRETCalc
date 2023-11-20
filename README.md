@@ -87,5 +87,5 @@ Papers that recently cited `FRET-Calc` are shown below.
 
 **[1] Improved Performance of Organic Light-Emitting Transistors Enabled by Polyurethane Gate Dielectric**, [*ACS Appl. Mater. Interfaces* 2023, 15, 28, 33809–33818](https://doi.org/10.1021/acsami.3c04509)
 
-**[2] Methods for Roll-to-Roll Vapor Deposition of Organic Semiconductors**, [*UNIVERSITY OF MICHIGAN LIBRARY,* Thesis, 2023](https://deepblue.lib.umich.edu/handle/2027.42/177972)
+**[2] Methods for Roll-to-Roll Vapor Deposition of Organic Semiconductors**, [*UNIVERSITY OF MICHIGAN,* Thesis, 2023](https://deepblue.lib.umich.edu/handle/2027.42/177972)
 
