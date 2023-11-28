@@ -92,6 +92,6 @@ Papers that recently cited `FRET-Calc` are shown below.
 
 **[3] Synergistic Influence of FRET on a High Quantum Yield π-Conjugate Polycarbazole-ZnS Composite Thin Film, ACS Omega, 2023.** [![DOI:10.1021/acsomega.3c03732](https://img.shields.io/badge/DOI-10.1021/acsomega.3c03732-A9CBD7.svg)](https://doi.org/10.1021/acsomega.3c03732)
 
-**[4] PLQ−sim: A computational tool for simulating photoluminescence quenching dynamics in organic donor/acceptor blends, Computer Physics Communications,
+**[4] PLQ−sim: A computational tool for simulating photoluminescence quenching dynamics in organic donor/acceptor blends, Comput. Phys. Commun.,
 Volume 296, March 2024, 109015.** [![DOI:10.1016/j.cpc.2023.109015](https://img.shields.io/badge/DOI-10.1016/j.cpc.2023.109015-A9CBD7.svg)](https://doi.org/10.1016/j.cpc.2023.109015)
 
