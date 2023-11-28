@@ -93,3 +93,8 @@ Papers that recently cited `FRET-Calc` are shown below.
 
 **[2] Methods for Roll-to-Roll Vapor Deposition of Organic Semiconductors, UNIVERSITY OF MICHIGAN, Thesis, 2023.** [link](https://deepblue.lib.umich.edu/handle/2027.42/177972)
 
+**[3] Synergistic Influence of FRET on a High Quantum Yield π- Conjugate Polycarbazole-ZnS Composite Thin Film, ACS Omega, 2023.** [link](https://doi.org/10.1021/acsomega.3c03732)
+
+**[4] PLQ−sim: A computational tool for simulating photoluminescence quenching dynamics in organic donor/acceptor blends, Computer Physics Communications,
+Volume 296, March 2024, 109015.** [link](https://doi.org/10.1016/j.cpc.2023.109015)
+
