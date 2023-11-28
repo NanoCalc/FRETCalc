@@ -89,12 +89,12 @@ Papers that recently cited `FRET-Calc` are shown below.
 <!-- [![DOI:<your number>](http://img.shields.io/badge/DOI-<your number>-<colour hexcode>.svg)](<doi link>) -->
 <!-- exemplo [![DOI:10.1101/2021.01.08.425840](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1101/2021.01.08.425840) -->
 
-**[1] Improved Performance of Organic Light-Emitting Transistors Enabled by Polyurethane Gate Dielectric, ACS Appl. Mater. Interfaces, 2023, 15, 28, 33809–33818.** [link](https://doi.org/10.1021/acsami.3c04509)
+**[1] Improved Performance of Organic Light-Emitting Transistors Enabled by Polyurethane Gate Dielectric, ACS Appl. Mater. Interfaces, 2023, 15, 28, 33809–33818.** [![DOI:10.1021/acsami.3c04509](https://img.shields.io/badge/DOI-10.1021/acsami.3c04509-A9CBD7.svg)](https://doi.org/10.1021/acsami.3c04509)
 
-**[2] Methods for Roll-to-Roll Vapor Deposition of Organic Semiconductors, UNIVERSITY OF MICHIGAN, Thesis, 2023.** [link](https://deepblue.lib.umich.edu/handle/2027.42/177972)
+**[2] Methods for Roll-to-Roll Vapor Deposition of Organic Semiconductors, UNIVERSITY OF MICHIGAN, Thesis, 2023.** [![DOI:10.7302/8429](https://img.shields.io/badge/DOI-10.7302/8429-A9CBD7.svg)](https://dx.doi.org/10.7302/8429)
 
-**[3] Synergistic Influence of FRET on a High Quantum Yield π-Conjugate Polycarbazole-ZnS Composite Thin Film, ACS Omega, 2023.** [link](https://doi.org/10.1021/acsomega.3c03732)
+**[3] Synergistic Influence of FRET on a High Quantum Yield π-Conjugate Polycarbazole-ZnS Composite Thin Film, ACS Omega, 2023.** [![DOI:10.1021/acsomega.3c03732](https://img.shields.io/badge/DOI-10.1021/acsomega.3c03732-A9CBD7.svg)](https://doi.org/10.1021/acsomega.3c03732)
 
 **[4] PLQ−sim: A computational tool for simulating photoluminescence quenching dynamics in organic donor/acceptor blends, Computer Physics Communications,
-Volume 296, March 2024, 109015.** [link](https://doi.org/10.1016/j.cpc.2023.109015)
+Volume 296, March 2024, 109015.** [![DOI:10.1016/j.cpc.2023.109015](https://img.shields.io/badge/DOI-10.1016/j.cpc.2023.109015-A9CBD7.svg)](https://doi.org/10.1016/j.cpc.2023.109015)
 
