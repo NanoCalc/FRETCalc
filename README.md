@@ -13,7 +13,7 @@ Therefore, the primary objective of this software is to acquire the fundamental 
 
 Detailed instructions for using FRET-Calc can be consulted in our published article:<br>
 
-**FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** 
+**FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation, Computer Physics Communications, 287, 2023, 108715** 
 
 [![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
 
