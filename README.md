@@ -11,6 +11,14 @@ Therefore, the primary objective of this software is to acquire the fundamental 
 - FRET efficiency 
 - FRET rate
 
+Detailed instructions for using FRET-Calc can be consulted in our published article:<br>
+
+**FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** 
+
+[![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
+
+**The preprint of this article is available for download:** [here](https://github.com/NanoCalc/FRETCalc/blob/main/FRET.pdf).
+
 **The software binaries can be downloaded for the following operating systems:** [*Unix-like systems (Linux)*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Unix.tar.gz), [*Windows*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Windows.tar.gz) and [*macOS*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-MacOS.tar.gz).<br> 
 
 Program interface:
@@ -23,15 +31,6 @@ Program interface:
 Test the app using [sample data](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/data-sample.zip).
 
 More spectral data for testing the app can be downloaded [here](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/spectral-data.zip).
-
-Detailed instructions for using FRET-Calc can be consulted in our published article:<br>
-
-
-**FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** 
-
-[![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
-
-This article is open access: you can get the preprint [here](https://github.com/NanoCalc/FRETCalc/blob/main/FRET.pdf).
 
 Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/dineufpr) and [*NAMOR*](http://sites.if.ufrj.br/namor/).
 
