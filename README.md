@@ -94,3 +94,6 @@ Papers that recently cited `FRET-Calc` are shown below.
 **[4] PLQ−sim: A computational tool for simulating photoluminescence quenching dynamics in organic donor/acceptor blends, Comput. Phys. Commun.,
 Volume 296, March 2024, 109015.** [![DOI:10.1016/j.cpc.2023.109015](https://img.shields.io/badge/DOI-10.1016/j.cpc.2023.109015-A9CBD7.svg)](https://doi.org/10.1016/j.cpc.2023.109015)
 
+**[5] RI−Calc: A user friendly software and web server for refractive index calculation, Comput. Phys. Commun.,
+Volume 298, May 2024, 109100.** [![DOI:10.1016/j.cpc.2024.109100](https://img.shields.io/badge/DOI-10.1016/j.cpc.2024.109100-A9CBD7.svg)](https://doi.org/10.1016/j.cpc.2024.109100)
+
