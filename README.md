@@ -19,7 +19,7 @@ Detailed instructions for using FRET-Calc can be consulted in our published arti
 
 **The preprint of this article is available for download:** [here](https://github.com/NanoCalc/FRETCalc/blob/main/FRET.pdf).
 
-**The software binaries can be downloaded for the following operating systems:** [*Unix-like systems (Linux)*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Unix.tar.gz), [*Windows*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-Windows.tar.gz) and [*macOS*](https://github.com/NanoCalc/FRETCalc/releases/download/FRETCalc-1.0-alpha/FRETCalc-MacOS.tar.gz).<br> 
+**The software binaries can be downloaded for the following operating systems:** [*Unix-like systems (Linux)*](https://github.com/NanoCalc/FRETCalc/releases/download/1.0/FRETCalc-Unix.tar.gz), [*Windows*](https://github.com/NanoCalc/FRETCalc/releases/download/1.0/FRETCalc-Windows.tar.gz) and [*macOS*](https://github.com/NanoCalc/FRETCalc/releases/download/1.0/FRETCalc-MacOS.tar.gz).<br> 
 
 Program interface:
 <p align="center">  
